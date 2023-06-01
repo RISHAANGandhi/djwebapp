@@ -1,0 +1,22 @@
+.heading{
+    width:100%;
+    margin-top: 0px;
+    font-size: 25px;
+   
+}
+.heading span{
+    color: black;
+    font-size: 15px;
+}
+#songname{
+    font-size: 20px;
+}
+canvas{
+    margin-top: 60px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 20px;
+}
+body{
+    text-align: center;
+}
